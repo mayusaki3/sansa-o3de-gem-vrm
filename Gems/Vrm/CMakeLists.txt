@@ -1,0 +1,1 @@
+ly_add_target(Vrm STATIC_LIBRARY ...)

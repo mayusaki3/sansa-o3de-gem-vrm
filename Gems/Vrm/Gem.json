@@ -1,0 +1,9 @@
+{
+  "gem_name": "Vrm",
+  "version": "0.1.0",
+  "display_name": "VRM Import/Export GEM",
+  "description": "Provides import/export support for VRM avatars in O3DE.",
+  "dependencies": [],
+  "compatible_engines": ["o3de"],
+  "tags": ["avatar", "vrm", "o3de"]
+}
